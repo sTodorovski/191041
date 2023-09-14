@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "917596065380",
+    "project_id": "fir-auth-92a6e",
+    "storage_bucket": "fir-auth-92a6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917596065380:android:ee5b6c1e2a399b65605971",
+        "android_client_info": {
+          "package_name": "edu.finki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917596065380-f36lpctdj47c0e3vjpir9nth0rfdpl7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUORKEBX_CJtZDhEjCSMZDBdtxRHumRgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917596065380-f36lpctdj47c0e3vjpir9nth0rfdpl7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
